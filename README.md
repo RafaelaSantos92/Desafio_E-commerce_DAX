@@ -5,10 +5,8 @@ Este repositório contém o código e a documentação para o Desafio de Projeto
 O objetivo deste projeto é aplicar conceitos de modelagem dimensional, transformando uma tabela única em múltiplas tabelas relacionadas para análise eficiente de dados. O foco é estruturar as tabelas de forma que otimizem o processo de consulta e visualização de dados para relatórios.
 
 # Estrutura do Projeto
-Tabelas Criadas:
 Financials_origem (modo oculto)
 
-Backup da tabela original.
 Tabelas Dimensão:
 
 D_Produtos:
